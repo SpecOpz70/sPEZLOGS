@@ -1,0 +1,34 @@
+{
+  "colorPalette": "emerald-mint",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260403-162640-kjcg",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "dateStart": "2026-04-03T21:26:40.000Z",
+      "dateEnd": "2026-04-03T23:01:30.000Z",
+      "dateLabel": "4/3/2026, 4:26:40 PM - 4/3/2026, 6:01:30 PM",
+      "url": "https://SpecOpz70.github.io/sPEZLOGS/?report=20260403-162640-kjcg",
+      "summary": {
+        "borderlandsPct": 0.875,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 40
+      }
+    }
+  ]
+}
