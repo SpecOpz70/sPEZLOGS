@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260414-085708-isy7",
+      "title": "Enrique Roddriguez",
+      "commanders": [
+        "Enrique Roddriguez"
+      ],
+      "dateStart": "2026-04-14T13:57:08.000Z",
+      "dateEnd": "2026-04-14T14:34:51.000Z",
+      "dateLabel": "4/14/2026, 8:57:08 AM - 4/14/2026, 9:34:51 AM",
+      "url": "https://SpecOpz70.github.io/sPEZLOGS/?report=20260414-085708-isy7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260403-162640-kjcg",
       "title": "Tilted Illusion",
       "commanders": [
