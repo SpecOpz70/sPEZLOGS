@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260420-084402-0si6",
+      "title": "Enrique Roddriguez",
+      "commanders": [
+        "Enrique Roddriguez"
+      ],
+      "dateStart": "2026-04-20T13:44:02.000Z",
+      "dateEnd": "2026-04-20T15:01:48.000Z",
+      "dateLabel": "4/20/2026, 8:44:02 AM - 4/20/2026, 10:01:48 AM",
+      "url": "https://SpecOpz70.github.io/sPEZLOGS/?report=20260420-084402-0si6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260414-085708-isy7",
       "title": "Enrique Roddriguez",
       "commanders": [
